@@ -1,1 +1,1 @@
-# Tomoto-leaf-detection
+# Tomato-Leaf-Disease-Prediction
